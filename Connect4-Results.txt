@@ -1,0 +1,3 @@
+5 in a row are needed to win this game.
+The round is over. Josh wins.
+The game is over. Josh is the champion with 1 wins
